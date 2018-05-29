@@ -37,7 +37,8 @@
 
 <body class="container">
   <?php                include("includes/navbar.php");
-      <hr
+      <hr>
+      <div class="content">
         <h1>
           <b>Home</b>
         </h1>
@@ -47,6 +48,10 @@
           The dog treats are fully customizable so you will definitely find one that your pooch will love.</p>
         <p>We are a small-batch dog treat bakery in northern California, showing your dogs the same love that we give to our special four-legged friends.</p>
         <p>Check us out-subscribe to our newsletter and your first order is 50% off!</p>
+
+
+
+      </div>
       <br><br>
       <hr><br>
     </div>

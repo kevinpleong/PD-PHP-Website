@@ -23,13 +23,15 @@
 </head>
 
 <body class="container">
-  <?php include("includes/navbar.php"); 
+  <?php include("includes/navbar.php");   
+  ?>
 // BEGINNING OF CONTENT
 
 //END OF CONTENT
   br>
 // BEGINNING OF FOOTER
-<?php include("includes/Footer.php"); 
+<?php include("includes/Footer.php");   
+  ?>
   //END OF FOOTER
   <br>
   </div>

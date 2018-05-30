@@ -36,7 +36,9 @@
 </head>
 
 <body class="container">
-  <?php                include("includes/navbar.php");
+  <?php                
+  include("includes/navbar.php"); 
+  ?>
       <hr>
       <div class="content">
         <h1>
@@ -49,8 +51,6 @@
         <p>We are a small-batch dog treat bakery in northern California, showing your dogs the same love that we give to our special four-legged friends.</p>
         <p>Check us out-subscribe to our newsletter and your first order is 50% off!</p>
 
-
-
       </div>
       <br><br>
       <hr><br>
@@ -61,7 +61,9 @@
   <br><br>
   <hr><br>
 
-  <?php                include("includes/Footer.php");
+  <?php                
+  include("includes/Footer.php");
+  ?>
   <br>
   </div>
   <script id="mcjs">
@@ -69,6 +71,5 @@
       m = c.createElement(h), p = c.getElementsByTagName(h)[0], m.async = 1, m.src = i, p.parentNode.insertBefore(m, p)
     }(document, "script", "https://chimpstatic.com/mcjs-connected/js/users/9e8f9bce6c54a8ba509884643/254c2322a32c5635960f01033.js");
   </script>
-
 </body>
 <html>

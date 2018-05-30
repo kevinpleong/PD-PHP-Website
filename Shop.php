@@ -24,7 +24,8 @@
 </head>
 
 <body class="container">
-<?php                include("includes/navbar.php");
+<?php                include("includes/navbar.php");  
+  ?>  
   <!-- Beginning of content -->
   <div class="row ">
     <div class="col-md-12 ">
@@ -91,7 +92,8 @@ Garbanzo Bean flour</option>
     </div>
   </div>
 
-  <?php                include("includes/Footer.php");
+  <?php include("includes/Footer.php");  
+  ?>  
 
   <br>
   </div>

@@ -25,7 +25,7 @@
 
 <body class="container">
 
-  <?php                include("includes/navbar.php");
+  <?php include("includes/navbar.php"); ?>
 
 <!-- BEGINNING OF SHOP CONTENT -->
   <div class="row ">
@@ -175,7 +175,7 @@ Garbanzo Bean Flour</option>
   <br><br>
   <hr><br>
 
-    <?php                include("includes/Footer.php");
+    <?php include("includes/Footer.php"); ?>
     
   <br>
   </div>

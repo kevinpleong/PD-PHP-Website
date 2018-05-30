@@ -24,7 +24,9 @@
 </head>
 
 <body class="container">
-  <?php                include("includes/navbar.php");
+  <?php
+  include("includes/navbar.php");
+  ?>
   <h1>
   <b>Other ingredients that you can add-in</b>
 </h1>
@@ -90,7 +92,9 @@
   <!-- End of Content -->
   </div>
 
-  <?php                include("includes/Footer.php");
+  <?php
+  include("includes/Footer.php");
+  ?>
   <br>
   </div>
 </body>

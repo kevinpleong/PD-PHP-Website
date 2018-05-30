@@ -26,7 +26,7 @@
   <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
 
 </head>
-<?php                include("includes/navbar.php");
+<?php include("includes/navbar.php"); ?>
 <body class="container">
   <div class="jumbotron jumbotron-sm">
     <div class="container">
@@ -103,7 +103,7 @@
   <br><br>
   <hr><br>
 
-    <?php                include("includes/Footer.php");
+    <?php                include("includes/Footer.php"); ?>
     
   <br>
   </div>

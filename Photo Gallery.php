@@ -25,7 +25,7 @@
 <body class="container">
   <?php                include("includes/navbar.php");  
   ?>  
-// BEGINNING OF CONTENT
+<!--BEGINNING OF CONTENT-->
 <div class="row">
 
       <div class="col-md-12">
@@ -52,8 +52,7 @@
         <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
       </div>
     </div>
-    <!-- END OF CONTENT -->
-
+<!--END OF CONTENT-->
     <br><br>
     <hr><br>
 <?php include ("includes/Footer.php);  

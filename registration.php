@@ -4,7 +4,7 @@ include 'login/db/connection.php';
 
 <html>
 <head>
-<title>Site Name</title>
+<title>Pawsitively Delicious Homemade Dog Treats</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="login/register/bootstrap/css/bootstrap.min.css" type="text/css" />
@@ -45,7 +45,7 @@ include 'login/db/connection.php';
 			  <div class="form-group">
                    <div class="input-group">
                    <div class="input-group-addon"><span class="glyphicon glyphicon-user"></span></div>
-                   <input name="fname" type="text" class="form-control" placeholder="First Name">
+                   <input name="fname" type="text" class="form-control" placeholder="ie. John">
                    </div>
 				   
                    <span class="help-block" id="error"></span>
@@ -57,7 +57,7 @@ include 'login/db/connection.php';
 			  <div class="form-group">
                    <div class="input-group">
                    <div class="input-group-addon"><span class="glyphicon glyphicon-user"></span></div>
-                   <input name="lname" type="text" class="form-control" placeholder="Last Name">
+                   <input name="lname" type="text" class="form-control" placeholder="ie.Meyer">
                    </div>
 				   
                    <span class="help-block" id="error"></span>
@@ -69,7 +69,7 @@ include 'login/db/connection.php';
 			  <div class="form-group">
                    <div class="input-group">
                    <div class="input-group-addon"><span class="glyphicon glyphicon-user"></span></div>
-                   <input name="uname" type="text" class="form-control" placeholder="Last Name">
+                   <input name="uname" type="text" class="form-control" placeholder="User Name">
                    </div>
 				   
                    <span class="help-block" id="error"></span>
@@ -133,7 +133,7 @@ include 'login/db/connection.php';
 			  <div class="row">
                         
                    
-			  <b>Dog's Birthday *</b>
+			  <b>What is your Dog's Birthday *</b>
 			  <div class="form-group">
                    <div class="input-group">
                    <div class="input-group-addon"><span class="glyphicon glyphicon-apple"></span></div>
@@ -147,7 +147,7 @@ include 'login/db/connection.php';
 			  
           <div class="row">
                         
-                    <b>Breed of dog(That You have) *</b>
+                    <b>What breed of dog do you have?*</b>
 			    <div class="form-group">
                    <div class="input-group">
                    <div class="input-group-addon"><span class="glyphicon glyphicon-dog"></span></div>
@@ -159,6 +159,26 @@ include 'login/db/connection.php';
 							<option  value="5">5</option>
 							<option  value="6">6</option>
 							<option  value="7">7</option>
+							<option  value="7">7</option>
+<option  value="7">7</option>
+<option  value="7">7</option>
+<option  value="7">7</option>
+<option  value="7">7</option>
+<option  value="7">7</option>
+<option  value="7">7</option>
+<option  value="7">7</option>
+<option  value="7">7</option>
+<option  value="7">7</option>
+<option  value="7">7</option>
+<option  value="7">7</option>
+<option  value="7">7</option>
+<option  value="7">7</option>
+<option  value="7">7</option>
+<option  value="7">7</option>
+<option  value="7">7</option>
+<option  value="7">7</option>
+<option  value="7">7</option>
+<option  value="7">7</option>
                    </select>
                    </div>  <span class="help-block" id="error"></span>
 				   </div>
